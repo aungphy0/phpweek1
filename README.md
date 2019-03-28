@@ -1,7 +1,7 @@
 # phpweek1
 # Project 1 - Globitek CMS
 
-Time spent: 96 hours spent in total
+Time spent: 4 hours 
 
 ## User Stories
 
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
   * [x]  Required: It has required text inputs.
   * [x]  Required: It submits to itself.
   * [x]  Required: It looks correct in a browser.
-  
+
 3. [x]  Required: Detect when the form is submitted.
   * [x]  Required: When page loads, page displays the form.
   * [x]  Required: When form submits, page retrieves the form data.
